@@ -1,7 +1,7 @@
 import React from 'react';
 import "./style.css";
 
-export default function Blog() {
+export default function Project() {
   return (
     <div>
       <h1>Blog Page</h1>

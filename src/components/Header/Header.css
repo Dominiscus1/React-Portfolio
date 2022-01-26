@@ -1,0 +1,18 @@
+/* .nav.nav-tabs.nav-item a{
+    display: flex;
+    align-items: center;
+    padding: 30px;
+} */
+   
+a{
+    color: rgb(82, 7, 7) !important;
+    text-decoration: none !important;
+}
+li.nav-item{
+    font-size: 18px;
+    padding: 18px;
+}
+
+ul.nav.nav-tab{
+    padding: 20px;
+}

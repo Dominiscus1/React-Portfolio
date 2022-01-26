@@ -1,0 +1,43 @@
+* {
+  background-color: lightgray;
+  color: rgb(0, 0, 0);
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.maroon {
+  color: rgb(82, 7, 7);
+}
+.component__space {
+  padding: 100px 20px;
+}
+.container {
+  width: 92%;
+  margin: 0px auto;
+}
+
+.row {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  overflow: hidden;
+  align-items: flex-start;
+  justify-content: center;
+}
+.col2 {
+  max-width: 50%;
+  display: flex;
+  padding: 20px;
+  justify-content: center;
+  flex-direction: column;
+}
+
+h1.about_heading {
+  margin-bottom: 10px;
+  font-weight: 700;
+  text-align: start;
+  font-family: Montserrat, sans-serif;
+  font-size: 60px;
+}
