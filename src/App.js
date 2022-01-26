@@ -11,7 +11,7 @@ function App(){
       <NavTabs/>
        <About/>
        <Project/>
-      <Contact/>
+       <Contact/>
       <Footer/> 
     </div>
   )

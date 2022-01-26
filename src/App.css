@@ -17,7 +17,10 @@ a {
   width: 92%;
   margin: 0px auto;
 }
-
+.width50{
+  padding: 10px;
+  width: 45%;
+}
 .row {
   display: flex;
   width: 100%;
@@ -41,3 +44,11 @@ h1.about_heading {
   font-family: Montserrat, sans-serif;
   font-size: 60px;
 }
+h1.project_heading {
+  margin-bottom: 10px;
+  font-weight: 700;
+  text-align: start;
+  font-family: Montserrat, sans-serif;
+  font-size: 60px;
+}
+

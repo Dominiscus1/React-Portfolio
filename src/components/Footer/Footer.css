@@ -1,0 +1,22 @@
+footer{
+    display: inline-flex;
+    background-color: aquamarine;
+    width: 100%;
+}
+footer .linkContainer{
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-evenly;
+}
+.GitHubLogo{
+    width: 75px;
+    height: 50px;
+}
+.LinkedInLogo{
+    width: 50px;
+    height: 50px;
+}
+.ResumeIcon{
+    width: 50px;
+    height: 50px;
+}
