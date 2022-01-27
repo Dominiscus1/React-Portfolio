@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.a96d35d7.css",
-    "main.js": "/React-Portfolio/static/js/main.5387e5aa.js",
+    "main.css": "/React-Portfolio/static/css/main.b9631f84.css",
+    "main.js": "/React-Portfolio/static/js/main.55068503.js",
     "static/media/Profile_Picture.jpg": "/React-Portfolio/static/media/Profile_Picture.a22786b33075857ef961.jpg",
     "static/media/Poke-beats.png": "/React-Portfolio/static/media/Poke-beats.e0db9fdb8a209b4f6321.png",
+    "static/media/e-fit.png": "/React-Portfolio/static/media/e-fit.b714dec252b8d962099f.png",
     "static/media/Anthony Jimenez Resume.pdf": "/React-Portfolio/static/media/Anthony Jimenez Resume.a0ff22d4a42966d8691f.pdf",
     "static/media/Mental-Health-Tracker.png": "/React-Portfolio/static/media/Mental-Health-Tracker.7d2e19feb7ff0e5117db.png",
     "static/media/ResumeIcon.png": "/React-Portfolio/static/media/ResumeIcon.ee9ddea98b41da8429d2.png",
     "static/media/github.png": "/React-Portfolio/static/media/github.a7cb412dfa89787a0e7a.png",
     "index.html": "/React-Portfolio/index.html",
-    "main.a96d35d7.css.map": "/React-Portfolio/static/css/main.a96d35d7.css.map",
-    "main.5387e5aa.js.map": "/React-Portfolio/static/js/main.5387e5aa.js.map"
+    "main.b9631f84.css.map": "/React-Portfolio/static/css/main.b9631f84.css.map",
+    "main.55068503.js.map": "/React-Portfolio/static/js/main.55068503.js.map"
   },
   "entrypoints": [
-    "static/css/main.a96d35d7.css",
-    "static/js/main.5387e5aa.js"
+    "static/css/main.b9631f84.css",
+    "static/js/main.55068503.js"
   ]
 }
