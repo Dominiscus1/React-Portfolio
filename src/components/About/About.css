@@ -1,3 +1,11 @@
+.about-container{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    overflow: hidden;
+    align-items: flex-start;
+    justify-content: center;
+}
 img.about_img{
     border-radius: 10px;
     width: 180px;

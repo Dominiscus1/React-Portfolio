@@ -1,6 +1,26 @@
-
-.Project-Container img{
-    width: 45%;
-    height: 45%;
+.Project-Container {
+    display: inline-flex;
+    justify-content: space-evenly;
+    width: 100%;
+    height: auto;
     padding: 10px;
+}
+.Project-Container img{
+    display: inline-flex;
+    justify-content: space-evenly;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+}
+.btn1{
+    display: flex;
+    margin: auto;
+    border: 1px solid black;
+    color: white;
+    background-color:rgb(82, 7, 7);
+    border-radius: 5px;
+}
+.btn1:hover{
+    background-color: rgba(82, 7, 7, 0.541);
+    color: white;
 }

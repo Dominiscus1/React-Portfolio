@@ -11,7 +11,7 @@ function NavTabs() {
           </a>
         </li>
         <li className="nav-item">
-          <a href="#Project" className="Project">
+          <a href="#Projects" className="Project">
             Project
           </a>
         </li>

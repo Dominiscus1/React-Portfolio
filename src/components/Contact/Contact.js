@@ -13,7 +13,7 @@ function Contact() {
         e.target.reset()
     }
     return (
-        <div className='contact component__space' id='Contact'>
+        <div className='contact component__space container' id='Contact'>
             <div className='row'>
                 <div className='col__2'>
                     <div className='contact__box'>
