@@ -30,7 +30,7 @@ export default function Project() {
                 <div className="e-fit-container">
             {/* <a href="https://negronmarc.github.io/Poke-Beats/" > */}
                 <img src={e_fit} alt="e-fit Preview"/>
-                <a href='https://negronmarc.github.io/Poke-Beats/'>
+                <a href='https://github.com/Dominiscus1/Workout'>
                 <button className="btn1">Deployed</button>
                 </a>
             </div>
